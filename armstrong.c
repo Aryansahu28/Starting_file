@@ -1,5 +1,6 @@
 #include <stdio.h>
 int main()
+//Printing Armstrong number from 1 to 2000 
 {
     int r, n, sum = 0;
     for (int i = 1; i <= 2000; i++)
